@@ -1,3 +1,5 @@
+//Money Tracker WebApp
+
 document.getElementById('calculate-btn').addEventListener('click',function(){  
     
     GetTotal()  //calling the function
